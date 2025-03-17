@@ -32,18 +32,23 @@
 
 #### Languages
 https://img.shields.io/badge/Javascript--yellow?style=flat&logo=javascript&logoColor=%23F7DF1E&color=%23F7DF1E
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+https://img.shields.io/badge/python--blue?style=for-the-badge&logo=python&color=%23F7DF1E
+https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=nodedotjs
+https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql
+
 
 
 
 #### Desarrollo
+https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff
+https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=%23ffffff
+https://img.shields.io/badge/Javascript--yellow?style=flat&logo=javascript&logoColor=%23F7DF1E&color=%23F7DF1E
+https://img.shields.io/badge/python--blue?style=for-the-badge&logo=python&color=%23F7DF1E
+https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=nodedotjs
+https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql
+https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=HTML&logoColor=%23ffffff
 
-https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+
 
 
 
@@ -53,13 +58,10 @@ https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 
 #### Herramientas de Tecnologia
-https://img.shields.io/badge/https%3A%2F%2Fcloud.google.com%2Fappsheet%3Fhl%3Des-419
-https://img.shields.io/badge/https%3A%2F%2Fworkspace.google.com%2Fintl%2Fes-419%2F
-https://img.shields.io/badge/https%3A%2F%2Fwww.zoho.com%2Fes-xl%2F
-https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/google-white?style=for-the-badge&logo=google
+https://img.shields.io/badge/zoho-white?style=for-the-badge&logo=zoho&color=%23E42527
+https://img.shields.io/badge/microsft-grey?style=for-the-badge&logo=microsoft
 
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 
 
 ####  Analisis De Datos
