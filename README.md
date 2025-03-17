@@ -31,8 +31,7 @@
 ## 🛠️ Skills
 
 #### Languages
-https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+https://img.shields.io/badge/Javascript--yellow?style=flat&logo=javascript&logoColor=%23F7DF1E&color=%23F7DF1E
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
