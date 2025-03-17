@@ -13,7 +13,7 @@
 
 - 📖 Actualmente estoy aprendiendo Seguridad Informatica e Inteligencia Artificial.
 
-- 📫 Comunicarse Conmigo...bookerdwtt7@gmail.com / migjimenez580@gmail.com.
+- 📫 Comunicarse Conmigo... bookerdwtt7@gmail.com / migjimenez580@gmail.com.
 
 <hr>
 
